@@ -1,0 +1,23 @@
+.curvert-converter-wrapper input#curvert-amount::placeholder {
+	color: #929292;
+}
+
+.curvert-converter-wrapper .input-wrapper:not(:last-child) {
+	margin-bottom: 10px;
+}
+
+.curvert-converter-wrapper #swap-currencies {
+	cursor: pointer;
+}
+.curvert-converter-wrapper .text-center {
+	text-align: center; 
+}
+
+.curvert-converter-wrapper #curvert-result-single {
+	text-align: center;
+}
+
+.curvert-converter-wrapper #curvert-result {
+	text-align: center;
+	font-size: 1.3rem;
+}
